@@ -1,25 +1,67 @@
-# Pawandeep Singh - Senior iOS Developer
+# Hey there
 
-Hi there! I'm Pawandeep Singh, an experienced and passionate iOS Developer with 5+ years of hands-on experience. I specialize in building mobile applications with a focus on user-centric design, high-performance solutions, and robust architecture.
+<a href="mailto:paawandeepsing@gmail.com?subject=Feedback%20From%20Github&body=Hello,">
+  <img align="left" alt="Pawandeep Singh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/paawandeep-singh/">
+  <img align="left" alt="Amanpreet's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-## 👨‍💻 About Me
-- I have developed, deployed, and maintained several iOS applications across various industries.
-- Skilled in Swift, Objective-C, RxSwift, and various iOS frameworks.
-- I am committed to delivering high-quality applications that solve real-world problems.
-- I enjoy mentoring teams and collaborating cross-functionally to achieve project goals.
+<br />
+<br>
+Hi there! I'm ,  iOS Developer with 5+ years of hands-on experience. 
+I'm <b>Pawandeep Singh</b>, an experienced and passionate Mobile Application Developer.I specialize in building mobile applications with a focus on user-centric design, high-performance solutions, and robust architecture.
 
-## 💡 My Skills
-- **Programming Languages**: Swift, Objective-C, JavaScript, Python
-- **Frameworks & Technologies**: SwiftUI, UIKit, CoreData, RxSwift, Realm, Bluetooth Low Energy (BLE)
-- **Tools & IDEs**: Xcode, Git, GitHub, Firebase, CI/CD (Jenkins, GitHub Actions)
-- **Architectures**: MVVM, MVC, MVP
-- **Other**: Bluetooth integration, payment gateway integrations, real-time apps, UI/UX design
+   <img align="right" alt="GIF" src="https://github.com/paawandeep/paawandeep/blob/main/image.gif?raw=true" width="500" height="320" />
+<b>Talking about Personal Stuffs:</b>
+
+- 👨🏽‍💻 I’m currently learning Compose and swift UI :wink:
+- 💬 Ask me about anything, I am happy to help
+- 😄 Pronouns: He/Him 
+- 📫 How to reach me: [Drop an email](mailto:paawandeepsing@gmail.com?subject=Feedback%20From%20Github&body=Hello,)
+
+
+
+## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+  <a href="https://www.swift.org" target="_blank">
+    <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white">
+  </a>
+    <a href="https://developer.apple.com/xcode/swiftui/" target="_blank">
+    <img alt="SwiftUI" src="https://img.shields.io/badge/swiftui-beta-brightgreen">
+  </a>
+      <a href="https://github.com/ReactiveX/RxSwift" target="_blank">
+    <img alt="RxSwift" src="https://img.shields.io/badge/rxswift-5.0.1-brightgreen">
+  </a>
+    </a>
+    <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/xcode-11%20beta-brightgreen" 
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/C-649AD2.svg?style=for-the-badge&logo=c&logoColor=white" alt="vsCode"/> 
+  </a>
+  
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/C++-649AD2.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="vsCode"/> 
+  </a>
+   <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/>
+  </a>
+  <a href="https://github.com/paawandeep" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+  </a>
+   <a href="" target="_blank">
+    <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+  </a> 
+  
+   <a href="Postman"  target="_blank">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  </a> 
+ <div>
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://buymeacoffee.com/paawandeep" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
-- 📧 Email: [paawandeepsing@gmail.com](mailto:paawandeepsing@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/pawandeep-singh](https://linkedin.com/in/pawandeep-singh)
-- 📱 Mobile: +91 (987) 861-3720
