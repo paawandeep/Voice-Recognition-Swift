@@ -1,4 +1,9 @@
-# Hey there
+<h1 align="center">Hi , I'm Pawandeep Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=31&center=true&vCenter=true&width=800&height=150&lines=Passionate+Mobile+Application+Developer;High+Performance+Solutions;Robust+architecture"></a>
+</p>
+
+<br>
 
 <a href="mailto:paawandeepsing@gmail.com?subject=Feedback%20From%20Github&body=Hello,">
   <img align="left" alt="Pawandeep Singh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -9,8 +14,13 @@
 
 <br />
 <br>
-Hi there! I'm ,  iOS Developer with 5+ years of hands-on experience. 
-I'm <b>Pawandeep Singh</b>, an experienced and passionate Mobile Application Developer.I specialize in building mobile applications with a focus on user-centric design, high-performance solutions, and robust architecture.
+
+
+## <picture><img src = "https://github.com/paawandeep/paawandeep/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
+
+
+
+
 
    <img align="right" alt="GIF" src="https://github.com/paawandeep/paawandeep/blob/main/image.gif?raw=true" width="500" height="320" />
 <b>Talking about Personal Stuffs:</b>
@@ -22,7 +32,7 @@ I'm <b>Pawandeep Singh</b>, an experienced and passionate Mobile Application Dev
 
 
 
-## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+## 💻 Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
   <a href="https://www.swift.org" target="_blank">
     <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white">
   </a>
