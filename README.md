@@ -15,6 +15,11 @@ Hi there! I'm Pawandeep Singh, an experienced and passionate iOS Developer with 
 - **Architectures**: MVVM, MVC, MVP
 - **Other**: Bluetooth integration, payment gateway integrations, real-time apps, UI/UX design
 
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://buymeacoffee.com/paawandeep" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
 - 📧 Email: [paawandeepsing@gmail.com](mailto:paawandeepsing@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/pawandeep-singh](https://linkedin.com/in/pawandeep-singh)
 - 📱 Mobile: +91 (987) 861-3720
