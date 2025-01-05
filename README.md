@@ -12,7 +12,7 @@ Hi there! I'm Pawandeep Singh, an experienced and passionate iOS Developer with 
 - **Programming Languages**: Swift, Objective-C, JavaScript, Python
 - **Frameworks & Technologies**: SwiftUI, UIKit, CoreData, RxSwift, Realm, Bluetooth Low Energy (BLE)
 - **Tools & IDEs**: Xcode, Git, GitHub, Firebase, CI/CD (Jenkins, GitHub Actions)
-- **Architectures**: MVVM, MVC
+- **Architectures**: MVVM, MVC, MVP
 - **Other**: Bluetooth integration, payment gateway integrations, real-time apps, UI/UX design
 
 - 📧 Email: [paawandeepsing@gmail.com](mailto:paawandeepsing@gmail.com)
